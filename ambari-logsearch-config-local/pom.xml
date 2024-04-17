@@ -28,7 +28,7 @@
   <artifactId>ambari-logsearch-config-local</artifactId>
   <packaging>jar</packaging>
   <name>Ambari Logsearch Config Local</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

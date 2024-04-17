@@ -27,7 +27,7 @@
 
   <artifactId>ambari-logsearch-log4j2-appender</artifactId>
   <packaging>jar</packaging>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
   <name>Ambari Logsearch Log4j2 Appender</name>
 
   <dependencies>

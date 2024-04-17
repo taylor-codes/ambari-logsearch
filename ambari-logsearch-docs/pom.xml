@@ -26,7 +26,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>ambari-logsearch-docs</artifactId>
   <packaging>jar</packaging>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
   <name>Ambari Logsearch Docs</name>
   <description>Ambari Logsearch Docs</description>
   <properties>

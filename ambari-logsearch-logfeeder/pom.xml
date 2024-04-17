@@ -28,7 +28,7 @@
   <artifactId>ambari-logsearch-logfeeder</artifactId>
   <packaging>jar</packaging>
   <name>Ambari Logsearch Log Feeder</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
 
 
   <properties>
